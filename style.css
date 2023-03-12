@@ -1,0 +1,14 @@
+body { font-family: Arial, Verdana;
+  font-size: 11pt;
+  padding-left: 300px;
+  padding-top: 50px;
+  background-image: url("https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGljfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+p{
+  font-size: 17pt;
+  color:rgb(0, 0, 0);
+}
+
